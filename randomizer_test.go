@@ -12,6 +12,7 @@ func TestRandomizer(t *testing.T) {
 	fmt.Println(randomizer.Intn(42))
 	fmt.Println(randomizer.Uint32())
 	fmt.Println(randomizer.Float32())
+	
  
 }
 
